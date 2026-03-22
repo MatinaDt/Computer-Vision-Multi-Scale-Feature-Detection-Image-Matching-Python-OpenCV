@@ -89,7 +89,7 @@ The system was evaluated on:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python
 - OpenCV
 - NumPy
