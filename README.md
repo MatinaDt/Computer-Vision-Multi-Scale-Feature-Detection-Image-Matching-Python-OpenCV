@@ -81,12 +81,6 @@ The system was evaluated on:
 - Real-world images
 - Transformed datasets (scale + rotation)
 
-### Key Findings:
-- Larger Gaussian scale improves noise robustness but reduces detail
-- Multi-scale detection is essential for real-world performance
-- SURF descriptors outperform HOG in matching tasks
-- Feature-based pipelines provide strong invariance to transformations
-
 ---
 
 ## Tech Stack
