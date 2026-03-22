@@ -1,5 +1,5 @@
 # Multi-Scale Feature Detection & Image Matching
-
+A joint project with Odysseas Ntousis
 ## Overview
 This project implements classical **Computer Vision algorithms** for detecting and describing key image features, with applications in image matching and classification.
 
